@@ -1,10 +1,11 @@
 # YOLOv4-tiny
 # Idea(General):
-This is the first part of a project consisting of 4 parts to create an autopilot system, as follows:
+This is the first part of a project consisting of 5 parts to create an autopilot system, as follows:
 1. Object Detection using YOLOv4-tiny.
 2. Semantic Segmentation.
 3. Modular Approach(Genetic Algorithm) autopilot design.
 4. End-to-End Approach(Based on the famous End-to-End Nvidea's paper) autopilot design.
+5. Lane tracer (physical car model using our autopilot systems).
 # Idea for this part(YOLOv4-tiny):
 1. We first pre-trained a YOLOv4-model on all the data taken from Africa St & Ebed Khatim St.
 2. We wanted the model to work in real-time but YOLOv4 took about 1 sec for a picture after continuous optimization.
@@ -14,6 +15,12 @@ This is the first part of a project consisting of 4 parts to create an autopilot
 6. Finally, We want to the thank the create(s) of the Darknet repository and the link to part 2 of the project is provided below:
 # Project's Part 2(Semantic Segmentation Link):
 https://github.com/Mohammed1999-1-8/semantic-segmentation-for-self-driving-cars
+# Project's Part 3(Modular Approach(Genetic Algorithm) autopilot design):
+https://github.com/Mohammed1999-1-8/Genetic-Autopilot
+# Project's Part 4(End-to-End Approach(Based on the famous End-to-End Nvidea's paper) autopilot design):
+https://github.com/Mohammed1999-1-8/end-to-end-Autopilot
+# Project's Part 5(Lane tracer (physical car model using our autopilot systems)):
+https://github.com/Mohammed1999-1-8/lane-tracer-robotic-car
 # The Data:
 Link: https://drive.google.com/file/d/149cuQmeziG-pwuTU3M6msJn9g0miorN7/view?usp=sharing
 # Darknet Link:
