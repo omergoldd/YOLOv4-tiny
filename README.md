@@ -5,7 +5,7 @@ This is the first part of a project consisting of 4 parts to create an autopilot
 2. Semantic Segmentation.
 3. Modular Approach(Genetic Algorithm) autopilot design.
 4. End-to-End Approach(Based on the famous End-to-End Nvidea's paper) autopilot design.
-# Idea(for this part(YOLOv4-tiny)):
+# Idea for this part(YOLOv4-tiny):
 1. We first pre-trained a YOLOv4-model on all the data taken from Africa St & Ebed Khatim St.
 2. We wanted the model to work in real-time but YOLOv4 took about 1 sec for a picture after continuous optimization.
 3. We then took the data & the labels produced by the YOLOv4 model and used them to train the YOLOv4-tiny model based on the famous Darknet implementation(trained on COCO dataset).
