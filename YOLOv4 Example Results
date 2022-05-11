@@ -1,8 +1,0 @@
-# The input image:
-![car](https://user-images.githubusercontent.com/22389376/167814190-3d81a7a2-7912-433f-8dd5-67c9f3f710dc.jpg)
-# YOLOv4 results:
-![YOLOv4ExampleResults](https://user-images.githubusercontent.com/22389376/167814769-27c52be0-958f-45b7-9083-26d105e6e60a.jpg)
-# YOLOv4-tiny results:
-![YOLOv4-tinyFinal](https://user-images.githubusercontent.com/22389376/167814933-e6ffc634-5d3e-448c-9ac8-298b4cdcf700.jpg)
-# Picture showing the YOLOv4 output after the detection boxes are added:
-![YOLOv4Example](https://user-images.githubusercontent.com/22389376/167815999-d0ae35cc-fe48-463a-a881-ed7516aaf563.jpg)
