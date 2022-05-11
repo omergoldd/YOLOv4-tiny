@@ -1,4 +1,5 @@
-# YOLOv4-tiny
+# Design and implementation of a computer vision-based autopilot for autonomous cars (Project of 5 parts)
+# YOLOv4-tiny(Part 1 out of 5)
 # Idea(General):
 This is the first part of a project consisting of 5 parts to create an autopilot system, as follows:
 1. Object Detection using YOLOv4-tiny.
